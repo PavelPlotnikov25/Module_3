@@ -1,4 +1,4 @@
-package com.main;
+package com;
 
 import com.config.FlywayConfig;
 import com.config.HibernateSessionFactoryUtil;
